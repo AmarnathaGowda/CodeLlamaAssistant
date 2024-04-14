@@ -67,5 +67,6 @@ pip install -r requirements.txt
 python app.py
 ```
 ```bash
-open up localhost:
+open up localhost URL : http://127.0.0.1:7860
 ```
+![alt text](https://github.com/AmarnathaGowda/CodeLlamaAssistant/blob/main/asset/webapp.png)

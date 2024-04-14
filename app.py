@@ -29,6 +29,6 @@ def generate_response(prompt):
         print("error:",response.text)
     
 
-interface = gr.Interface(fn = generate_response,inputs=gr.Textbox(lines=4,placeholder="Hi am LokiLogic, How can I help you"), outputs="text")
+interface = gr.Interface(fn = generate_response,inputs=gr.Textbox(lines=4,placeholder="Hi am LokiLogic, How can I help you !!"), outputs="text")
 
 interface.launch()

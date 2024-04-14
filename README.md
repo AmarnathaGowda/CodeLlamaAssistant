@@ -3,7 +3,7 @@ A versatile code assistant tool leveraging CodeLlama's Llama2 AI to enhance codi
 
 
 # Project Name: LokiLogic
-    This project is a multifaceted code assistant designed to aid developers in writing better code, learning new programming languages, and debugging efficiently. Created with the goal of enhancing the coding experience, it serves as an educational tool for those looking to expand their coding expertise while also offering robust debugging support. Whenever developers encounter errors, this assistant provides intelligent insights and solutions, streamlining the debugging process and reducing development time.
+This project is a multifaceted code assistant designed to aid developers in writing better code, learning new programming languages, and debugging efficiently. Created with the goal of enhancing the coding experience, it serves as an educational tool for those looking to expand their coding expertise while also offering robust debugging support. Whenever developers encounter errors, this assistant provides intelligent insights and solutions, streamlining the debugging process and reducing development time.
 
 ## Built With
 - **Python**: The primary programming language used for developing the backend logic and functionalities.
